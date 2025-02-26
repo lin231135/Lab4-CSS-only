@@ -3,7 +3,7 @@
 ## Enlace al Resultado Final
 
 Puedes ver el resultado final en el siguiente enlace:  
-[Resultado Final](https://calicheoficial.lat/231135/Lab4/index.html)
+https://calicheoficial.lat/231135/Lab4/index.html
 
 ## Comparación
 
